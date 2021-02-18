@@ -1,2 +1,3 @@
-# python-notes
-Python Learning Notes
+# Python Learning Notes
+
+1. [Chú thích](comments.md)
