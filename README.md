@@ -4,3 +4,4 @@
 2. [Docstrings](docstrings.md)
 3. [Làm việc với chuỗi](strings.md)
 4. [Kiểu số](numeric-types.md)
+5. [Danh sách](lists.md)
