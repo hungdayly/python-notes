@@ -6,3 +6,4 @@
 4. [Kiểu số](numeric-types.md)
 5. [Danh sách](lists.md)
 6. [Tuple](tuples.md)
+7. [Từ điển](dictionaries.md)
