@@ -8,3 +8,4 @@
 6. [Tuple](tuples.md)
 7. [Từ điển](dictionaries.md)
 8. [Tập hợp](sets.md)
+9. [Kiểu lôgic và None](boolean-type-and-none.md)
