@@ -11,3 +11,4 @@
 9. [Kiểu lôgic và None](boolean-type-and-none.md)
 10. [Các lệnh điều kiện](conditional-statements.md)
 11. [Các vòng lặp](loops.md)
+12. [Comprehensions](comprehensions.md)
