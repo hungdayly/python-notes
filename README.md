@@ -12,3 +12,4 @@
 10. [Các lệnh điều kiện](conditional-statements.md)
 11. [Các vòng lặp](loops.md)
 12. [Comprehensions](comprehensions.md)
+13. [Xử lý ngoại lệ](exception-handling.md)
