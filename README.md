@@ -14,3 +14,4 @@
 12. [Comprehensions](comprehensions.md)
 13. [Xử lý ngoại lệ](exception-handling.md)
 14. [Làm việc với file](files.md)
+15. [Hàm](functions.md)
