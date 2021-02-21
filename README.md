@@ -1,5 +1,7 @@
 # Python Learning Notes
 
+## Các chủ đề cơ bản
+
 1. [Chú thích](comments.md)
 2. [Docstrings](docstrings.md)
 3. [Làm việc với chuỗi](strings.md)
@@ -16,3 +18,6 @@
 14. [Làm việc với file](files.md)
 15. [Hàm](functions.md)
 16. [Class](classes.md)
+
+## Các chủ đề nâng cao
+
